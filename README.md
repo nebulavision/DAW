@@ -1,4 +1,4 @@
-# daw
+# DAW
 DAW FP related repository
 
 ## Módulos
