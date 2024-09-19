@@ -3,4 +3,4 @@
 ---
 
 ### Contenidos
-* [Temario](https://github.com/nebulavision/DAW/blob/main/dwc/DWEC01/DWEC01-Arquitecturas%20y%20lenguajes%20de%20programaci%C3%B3n%20en%20clientes%20web.pdf)
+* [Temario](https://github.com/nebulavision/DAW/blob/main/DWEC/DWEC01/DWEC01-Arquitecturas%20y%20lenguajes%20de%20programaci%C3%B3n%20en%20clientes%20web.pdf)
