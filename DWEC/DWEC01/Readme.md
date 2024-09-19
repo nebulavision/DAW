@@ -1,5 +1,5 @@
 # Desarrollo Web en Entorno Cliente
-## Unidad 1. Arquitecturas y lenguajes de programación en clientes web
+## [] Unidad 1. Arquitecturas y lenguajes de programación en clientes web
 ---
 
 ### Contenidos
