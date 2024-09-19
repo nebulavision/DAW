@@ -4,5 +4,5 @@ Coursed in [IES Puerto de La Cruz - Telesforo Bravo](https://www3.gobiernodecana
 ---   
 
 ## Módulos
-* [Desarrollo web en entorno cliente](https://github.com/brunodm99/daw/tree/main/dwc)
+* [Desarrollo web en entorno cliente](https://github.com/brunodm99/daw/tree/main/dwec)
 * [Desarrollo de interfaces web](https://github.com/brunodm99/daw/tree/main/diw)
