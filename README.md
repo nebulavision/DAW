@@ -2,7 +2,7 @@
 
 Este repositorio correspondnen al [IES Puerto de La Cruz - Telesforo Bravo](https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/) del Puerto de La Cruz, Tenerife. Durante la promoción 2022/2026 en la modalidad a distancia.
 ---
-Para el ciclo de DAM vease (https://github.com/nebulavision/DAM/tree/main)
+Para el ciclo de DAM vease [](https://github.com/nebulavision/DAM/tree/main)
 ---
 
 ## Primer Curso (DAW 1)
