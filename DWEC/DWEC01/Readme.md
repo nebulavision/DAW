@@ -3,3 +3,6 @@
 
 ### Contenidos
 * [Temario](https://github.com/nebulavision/DAW/tree/main/DWEC/DWEC01/Temario)
+
+### Tareas
+* [Tarea 01.](https://github.com/nebulavision/DAW/tree/main/DWEC/DWEC01/tarea/01)
