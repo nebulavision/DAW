@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <header>
+            <h1>Aprende JavaScript con MyFPSchool!</h1>
+        </header>
+
+        <main>
+            <p id="p1">1. ¿El sol es amarillo?</p>
+            <button onclick="test('p1', true)">Verdadero</button>
+            <button onclick="test('p1', false)">Falso</button>
+
+            <p id="p2">2. ¿Que lenguaje estamos aprendiendo?</p>
+            <button onclick="test('p2', false)">C</button>
+            <button onclick="test('p2', true)">Javascript</button>
+
+            <p id="p3">3. ¿Cuánto es 2 + 2?</p>
+            <button onclick="test('p3', true)">4</button>
+            <button onclick="test('p3', false)">8</button>
+
+            <p id="p4">4. ¿'Hello' es 'Hola' en inglés?</p>
+            <button onclick="test('p4', true)">Verdadero</button>
+            <button onclick="test('p4', false)">Falso</button>
+
+            <p id="p5">5. ¿JS es un lenguaje de programación?</p>
+            <button onclick="test('p5', true)">Verdadero</button>
+            <button onclick="test('p5', false)">Falso</button>
+
+            <p id="p6">6. ¿HTML en un lenguaje de programación?</p>
+            <button onclick="test('p6', true)">No</button>
+            <button onclick="test('p6', false)">Sí</button>
+
+            <p id="p7">7. El agua es roja</p>
+            <button onclick="test('p7', false)">Verdadero</button>
+            <button onclick="test('p7', true)">Falso</button>
+        </main>
+
+
+    <script>
+    function test(id, result) {
+        if(result === true){
+            document.getElementById(id).style.color = "green"
+        }else{
+            document.getElementById(id).style.color = "red"
+        }
+    
+    }
+    </script>
+    <footer>
+        <p>Bruno Díaz Martín - Práctica 4</p>
+    </footer>
+    </body>
+</html>
