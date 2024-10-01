@@ -53,7 +53,7 @@ e. 3 ^ 2
 f. var y=17; y%=5;
 g. var caja = ["percha", "balón"]; alert(caja[1]);
 h. var a=3,b=6; var h = a > b ? a : b;
-'``
+```
 
 ### Actividad 6. Observa el siguiente código:
 ```
