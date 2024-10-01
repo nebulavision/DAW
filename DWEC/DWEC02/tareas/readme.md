@@ -65,17 +65,17 @@ var arr=[1,2,3,4];
    console.log(arr[i]);
   }
 ```
-### ¿Muestran la misma información el primer y el segundo bucle?
-### ¿Cuál es la diferencia entre los mismos?
-### ¿Existe diferencia entre ++i e i++?
-### ¿Qué muestra el siguiente código: "arr.forEach(function(i){console.log(i)});"?
-### ¿Y el siguiente?
+#### ¿Muestran la misma información el primer y el segundo bucle?
+#### ¿Cuál es la diferencia entre los mismos?
+#### ¿Existe diferencia entre ++i e i++?
+#### ¿Qué muestra el siguiente código: "arr.forEach(function(i){console.log(i)});"?
+#### ¿Y el siguiente?
 ```
 for (i of arr) {
   console.log(i);
  }
 ```
-### ¿Hay diferencia con el siguiente?
+#### ¿Hay diferencia con el siguiente?
 ```
 for (i in arr){
    console.log(i)
