@@ -40,8 +40,8 @@ i. parseFloat(15.5)
     saludar();
 </script>
 ```
-###  A. ¿La variable nombre se define de modo local o global?
-### B. Copia y ejecuta el código para probar su funcionalidad. En caso de no funcionar cámbialo para solucionar el problema.
+####  A. ¿La variable nombre se define de modo local o global?
+#### B. Copia y ejecuta el código para probar su funcionalidad. En caso de no funcionar cámbialo para solucionar el problema.
 
 ### Actividad 5. ¿Qué valor se obtendrá al ejecutar estas expresiones?
 ```
