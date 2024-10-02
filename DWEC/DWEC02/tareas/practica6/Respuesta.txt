@@ -1,0 +1,11 @@
+A. Sí
+B. La diferencia principal es que en el segundo bucle, la longitud del array se guarda en la variable len
+   antes de iniciar el bucle.
+C. Si, el preincremento (++i) incrementa i y devuelve el nuevo valor de i, mientras que
+   el postincremento (i++) devuelve el valor de i antes de incrementarlo.
+   Aunque en el contexto del bucle for, no cambian la funcionalidad y funcionan
+   de igual forma.
+D. Imprimirá 1 2 3 4
+E. Lo mismo, 1 2 3 4
+F. Si, en este caso imprimira los indices del array, es decir, 0 1 2 3, debido a que
+   for...in itera sobre los índices de un iterable

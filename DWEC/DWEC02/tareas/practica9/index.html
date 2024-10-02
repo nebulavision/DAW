@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+  
+      <h1>Calcular propina</h1>
+
+      <label for="montoFactura">Monto total</label>
+      <input type="text" id="montoFactura"/><br/>
+      <label for="porcentaje">Porcentaje de propina</label>
+      <select id="porcentaje">
+        <option value="10">10%</option>
+        <option value="15">15%</option>
+        <option value="20">20%</option>
+      </select>
+      <button onclick="propina()">Calcular Propina</button>
+      <h3 id="propinaH3"></h3>
+     
+      <script src="script.js"></script>
+      <noscript>Necesitas activar el motor de JS.</noscript>
+    </body>
+</html>

@@ -1,0 +1,9 @@
+A. parseInt("15") -> 15
+B. parseInt("15.5") -> 15
+C. parseInt(15.5) -> 15
+D. parseInt("true") -> NaN
+E. parseInt(true) -> NaN
+F. parseInt("Pedro") -> NaN
+G. parseInt(15 + "Pedro") -> 15
+H. parseFloat("15.5") -> 15.5
+I. parseFloat(15.5) -> 15.5

@@ -1,0 +1,1 @@
+alert("Tienes el motor de JS activado.")

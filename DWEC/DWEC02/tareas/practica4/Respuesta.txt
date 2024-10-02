@@ -1,0 +1,6 @@
+a) La variable nombre se define como var pero dentro de una
+   función, lo cual, se estaría declarando de forma local.
+
+b) No funciona debido a que como nombre es local, fuera declarando
+   ámbito de saludor() no existe y generaría un error.
+   La solución pasa por declararla de forma global.
