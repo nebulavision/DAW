@@ -2,6 +2,6 @@
 ## Unidad 6. El Modelo de Objetos del Documento (DOM)  
 
 ### Contenidos 
-* [Temario](https://github.com/nebulavision/DAW/blob/main/DWEC/DWEC06/temario)
+* [Temario](https://github.com/nebulavision/DAW/blob/main/DWEC/DWEC07/temario)
 
 ### Tareas 
