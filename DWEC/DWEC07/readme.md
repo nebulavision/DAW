@@ -1,5 +1,5 @@
 # Desarrollo Web en Entorno Cliente 
-## Unidad 6. El Modelo de Objetos del Documento (DOM)  
+## Unidad 7. Programación AJAX en JavaScript
 
 ### Contenidos 
 * [Temario](https://github.com/nebulavision/DAW/blob/main/DWEC/DWEC07/temario)
