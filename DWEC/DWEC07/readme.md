@@ -7,3 +7,4 @@
 * [Fetch API](https://github.com/nebulavision/DAW/blob/main/DWEC/DWEC07/temario/UT7%20Fetch.pdf)
 
 ### Tareas 
+* [Obteniendo datos de la API de League of Legends](https://github.com/nebulavision/lolchampions)
